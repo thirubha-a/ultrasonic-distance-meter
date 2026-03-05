@@ -58,15 +58,12 @@ void loop() {
 
   delay(1000);
 }
-
+```
 
 ## 🔌 Circuit Diagram
 
-
 <img src="circuit.png" width="600">
 
-
-## 📊 Output 
-
+## 📊 Output
 
 <img src="output.png" width="600">
