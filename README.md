@@ -60,6 +60,6 @@ void loop() {
 }
 ## 🔌 Circuit Diagram
 <img src="circuit.png" width="600">
-## 📊 Output Screenshot
+## 📊 Output 
 
 <img src="output.png" width="600">
